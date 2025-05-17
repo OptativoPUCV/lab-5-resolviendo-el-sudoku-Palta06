@@ -29,3 +29,9 @@ sudoku.c:92:7: error: variable 'encontrado' set but not used [-Werror=unused-but
        ^~~~~~~~~~
 cc1.exe: all warnings being treated as errors
 23f8650
+Fri, May 16, 2025  8:48:28 PM: 
+ sudoku.c | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+ tests:  5|3
+total_score: 35/70
+8608a27
